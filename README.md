@@ -1,5 +1,5 @@
 ## Hi there, my names Sara Elqaisi!👋
-### I am a full-time student at Coding Dojo
+### I am a recent graduate from Coding Dojo
 - 🌱 I’m currently learning Java & MySQL
 - 💬 Ask me about my bootcamp experience!
 - 📫 Connect with me: [<img align="center" alt="linkedin | Sara Elqaisi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]  [<img align="center" alt="Gmail | Sara Elqaisi" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
