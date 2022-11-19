@@ -1,6 +1,6 @@
 ## Hi there, my names Sara Elqaisi!👋
-### I am a recent graduate from Coding Dojo
-- 🌱 I’m currently learning Java & MySQL
+### I am a student at SNHU studying Computer Science, and a recent graduate from Coding Dojo bootcamp
+- 🌱 I’m currently learning React.js
 - 💬 Ask me about my bootcamp experience!
 - 📫 Connect with me: [<img align="center" alt="linkedin | Sara Elqaisi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]  [<img align="center" alt="Gmail | Sara Elqaisi" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 
@@ -21,8 +21,10 @@
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
