@@ -1,6 +1,6 @@
 ## Hi there, my names Sara Elqaisi!👋
-### I am a student at SNHU studying Computer Science, and a recent graduate from Coding Dojo bootcamp
-- 🌱 I’m currently learning React.js
+### I am a student at SNHU studying Computer Science, and a graduate from Coding Dojo bootcamp
+- 🌱 I’m currently learning Salesforce
 - 💬 Ask me about my bootcamp experience!
 - 📫 Connect with me: [<img align="center" alt="linkedin | Sara Elqaisi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]  [<img align="center" alt="Gmail | Sara Elqaisi" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 
@@ -10,6 +10,7 @@
 
 ### Languages & Tools:
 <div align="center">
+<img alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
