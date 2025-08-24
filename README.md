@@ -1,7 +1,6 @@
 ## Hi there, my names Sara Elqaisi!👋
 ### I am a masters student at NYU Tandon School of Engineering studying Bioinformatics.
-- 🌱 I’m currently learning React Native
-- 💬 Ask me about my Coding Dojo bootcamp experience!
+- 🌱 I’m currently learning Biostatistics
 - 📫 Connect with me: [<img align="center" alt="linkedin | Sara Elqaisi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]  [<img align="center" alt="Gmail | Sara Elqaisi" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 
 [linkedin]: linkedin.com/in/sara-elqaisi
@@ -10,8 +9,9 @@
 
 ### Languages & Tools:
 <div align="center">
-<img alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
+<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -19,6 +19,7 @@
 <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
 <img alt="springboot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
