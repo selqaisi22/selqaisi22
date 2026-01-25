@@ -1,6 +1,6 @@
 ## Hi there, my names Sara Elqaisi!👋
 ### I am a masters student at NYU Tandon School of Engineering studying Bioinformatics.
-- 🌱 I’m currently learning Biostatistics
+- 🌱 I’m currently learning NGS
 - 📫 Connect with me: [<img align="center" alt="linkedin | Sara Elqaisi" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin]  [<img align="center" alt="Gmail | Sara Elqaisi" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 
 [linkedin]: linkedin.com/in/sara-elqaisi
